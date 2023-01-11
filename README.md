@@ -2,8 +2,10 @@
 I wish that I could find a well-paid job or make a business through python technique.
 
 - 2023-01-11 (Day 1)
-Learned how to used [virtualenv and pipenv](https://docs.python-guide.org/dev/virtualenvs/#installing-pipenv)
-    - Still need more time and examples to sharpe the skills
+Learned how to used 
+    - [virtualenv and pipenv](https://docs.python-guide.org/dev/virtualenvs/#installing-pipenv)
+        -  Still need more time and examples to sharpe the skills
+    - Learned about [TDD](./TDD_Python) 
 ## PHP8 (Be a exercellent python programmer)
 - 
 
