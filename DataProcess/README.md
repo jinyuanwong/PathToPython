@@ -2,4 +2,4 @@
 
 ## My current strategy is:
 
-$$Average_Signal(i) - Average_Signal(i-10) > 0.15$$
+$$ AverageSignal(i) - AverageSignal(i-10) > 0.15 $$
