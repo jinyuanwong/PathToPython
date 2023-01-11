@@ -5,8 +5,8 @@ I wish that I could find a well-paid job or make a business through python techn
 Learned how to used 
     - [virtualenv and pipenv](https://docs.python-guide.org/dev/virtualenvs/#installing-pipenv)
         -  Still need more time and examples to sharpe the skills
-    - Learned about [TDD](./TDD_Python) 
-## PHP8 (Be a exercellent python programmer)
+    - [TDD](./TDD_Python) 
+## PEP8 (Be a exercellent python programmer)
 - 
 
 ## Algorithm 
