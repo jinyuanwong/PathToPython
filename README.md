@@ -1,13 +1,12 @@
 # Here is how I learn Python
 I wish that I could find a well-paid job or make a business through python technique.
 
-- 2023-01-11 (Day 1)
+- Day 1 (2023-01-11)
 Learned how to used 
     - [virtualenv and pipenv](https://docs.python-guide.org/dev/virtualenvs/#installing-pipenv)
         -  Still need more time and examples to sharpe the skills
     - [TDD](./TDD_Python) 
-## PEP8 (Be a exercellent python programmer)
-- 
+    - [PEP8](https://peps.python.org/pep-0008/#variable-annotations) (Be a exercellent python programmer)
 
 ## Algorithm 
 - 
