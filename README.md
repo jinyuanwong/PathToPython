@@ -18,5 +18,8 @@ Learned how to used
 ## Sources for python
 - [Python教育资源大全中文版](https://github.com/wwj718/awesome-python-in-education-zh)
 
+
+## Prepare for the interview 
+- [Python Interview Questions](https://github.com/hantmac/python_interview_question)
 ## Reference
 - 
