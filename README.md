@@ -7,8 +7,7 @@ Learned how to used
         -  Still need more time and examples to sharpe the skills
     - [TDD](./TDD_Python) 
     - [PEP8](https://peps.python.org/pep-0008/#variable-annotations) (Be a exercellent python programmer)
-
-
+    - [Some basic commands to use pipenv and virtualenv]
 
 ## Algorithm 
 - 

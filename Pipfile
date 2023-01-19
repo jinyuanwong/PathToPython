@@ -5,8 +5,15 @@ name = "pypi"
 
 [packages]
 requests = "*"
+scikit-learn = "==1.2.0"
+matplotlib = "==3.3.4"
+numpy = "==1.23.0"
+pandas = "==1.2.4"
+django = "*"
+camelcase = "*"
 
 [dev-packages]
+nose = "*"
 
 [requires]
 python_version = "3.9"
